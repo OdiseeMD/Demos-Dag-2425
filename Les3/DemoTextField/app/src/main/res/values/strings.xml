@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo-TextField</string>
+    <string name="enable_naam">Enable naam</string>
+    <string name="enable_leeftijd">Enable leeftijd</string>
+    <string name="geef_je_leeftijd_op">Geef je leeftijd op</string>
+    <string name="geef_je_naam_op">Geef je naam op</string>
+</resources>
